@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>BobbyZhang的技术小站</title>
+  <title>阿勋的一心净土</title>
   
-  <subtitle>Just do IT！</subtitle>
+  <subtitle>温故而知新，可以为师矣。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.itbobby.top/"/>
@@ -10,7 +10,7 @@
   <id>http://blog.itbobby.top/</id>
   
   <author>
-    <name>BobbyZhang</name>
+    <name>axun</name>
     
   </author>
   
